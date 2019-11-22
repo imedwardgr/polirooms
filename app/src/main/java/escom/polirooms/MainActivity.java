@@ -7,7 +7,7 @@ import android.os.Bundle;
 import escom.polirooms.R;
 
 public class MainActivity extends AppCompatActivity {
-    //comentario de prueba
+    //comentario de paolafea
     //respuesta al comentario xd
     @Override
     protected void onCreate(Bundle savedInstanceState) {
