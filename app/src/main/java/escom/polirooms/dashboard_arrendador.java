@@ -11,7 +11,7 @@ import androidx.appcompat.widget.Toolbar;
 import android.view.View;
 
 public class dashboard_arrendador extends AppCompatActivity {
-
+    //Hola
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
