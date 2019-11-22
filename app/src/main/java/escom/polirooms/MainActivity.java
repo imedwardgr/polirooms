@@ -8,10 +8,7 @@ import android.widget.TextView;
 import escom.polirooms.R;
 
 public class MainActivity extends AppCompatActivity {
-    //comentario de prueba
-    //respuesta al comentario xd
 
-    TextView element;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
