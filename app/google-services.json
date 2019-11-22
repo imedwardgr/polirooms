@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "51190450593",
+    "firebase_url": "https://polirooms-68984.firebaseio.com",
+    "project_id": "polirooms-68984",
+    "storage_bucket": "polirooms-68984.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:51190450593:android:b8801896a0eabcfa9f23e0",
+        "android_client_info": {
+          "package_name": "escom.polirooms"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "51190450593-j76roceedbpktfmg14htgtgib7kjaub0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4JScu6WPpJ417a72Wbj6xN3Po30zd-qo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "51190450593-j76roceedbpktfmg14htgtgib7kjaub0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
