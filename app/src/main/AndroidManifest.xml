@@ -12,6 +12,38 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
+        <activity
+            android:name=".dashboard_huesped"
+            android:label="@string/title_activity_dashboard_huesped"
+            android:theme="@style/AppTheme.NoActionBar"></activity>
+        <activity
+            android:name=".dashboard_arrendador"
+            android:label="@string/title_activity_dashboard_arrendador"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".reg_verifying_message"
+            android:label="@string/title_activity_reg_verifying_message"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".reg_select_picture"
+            android:label="@string/title_activity_reg_select_picture"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".reg_take_picture"
+            android:label="@string/title_activity_reg_take_picture"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".reg_select_type_of_user"
+            android:label="@string/title_activity_reg_select_type_of_user"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".verifiying_process"
+            android:label="@string/title_activity_verifiying_process"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".login"
+            android:label="@string/title_activity_login"
+            android:theme="@style/AppTheme.NoActionBar" />
         <activity android:name=".MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
