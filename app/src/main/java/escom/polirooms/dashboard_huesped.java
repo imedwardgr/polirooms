@@ -11,15 +11,12 @@ import androidx.appcompat.widget.Toolbar;
 import android.view.View;
 
 public class dashboard_huesped extends AppCompatActivity {
-    //Otro comentario
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_dashboard_huesped);
         Toolbar toolbar = findViewById(R.id.toolbar);
         setSupportActionBar(toolbar);
-
-        //otro pedazo de codigo
 
         FloatingActionButton fab = findViewById(R.id.fab);
         fab.setOnClickListener(new View.OnClickListener() {
