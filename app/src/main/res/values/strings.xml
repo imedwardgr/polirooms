@@ -9,4 +9,9 @@
     <string name="title_activity_dashboard_arrendador">dashboard_arrendador</string>
     <string name="title_activity_dashboard_huesped">dashboard_huesped</string>
     <string name="polirooms_logo">Logotipo de Polirooms</string>
+    <string name="login_welcome">Ingresa a la app</string>
+    <string name="login_username">Nombre de Usuario o Correo</string>
+    <string name="login_password">Contraseña</string>
+    <string name="login_register">¿Aún no estas registrado? <b>Registrate</b></string>
+    <string name="login_log">Ingresar</string>
 </resources>
