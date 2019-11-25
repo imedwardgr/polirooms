@@ -12,10 +12,12 @@
         android:roundIcon="@drawable/polirooms_round_icon"
         android:supportsRtl="true"
         android:theme="@style/AppTheme.NoActionBar">
+        <activity android:name=".reg_arrendador_form"></activity>
+        <activity android:name=".reg_husped_form" />
         <activity
             android:name=".dashboard_huesped"
             android:label="@string/title_activity_dashboard_huesped"
-            android:theme="@style/AppTheme.NoActionBar"></activity>
+            android:theme="@style/AppTheme.NoActionBar" />
         <activity
             android:name=".dashboard_arrendador"
             android:label="@string/title_activity_dashboard_arrendador"
