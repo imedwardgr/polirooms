@@ -14,4 +14,8 @@
     <string name="login_password">Contraseña</string>
     <string name="login_register">¿Aún no estas registrado? <b>Registrate</b></string>
     <string name="login_log">Ingresar</string>
+    <string name="register_title">Registro</string>
+    <string name="register_user_types">¿Qué tipo de usuario eres?</string>
+    <string name="txt_huesped">Huesped</string>
+    <string name="txt_arrendador">Arrendador</string>
 </resources>
