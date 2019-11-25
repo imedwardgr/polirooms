@@ -18,4 +18,19 @@
     <string name="register_user_types">¿Qué tipo de usuario eres?</string>
     <string name="txt_huesped">Huesped</string>
     <string name="txt_arrendador">Arrendador</string>
+    <string name="form_huesped_tittle">Registro de Estudiante</string>
+    <string name="form_huesped_name">Nombre(s)</string>
+    <string name="form_huesped_second_name">Apellidos</string>
+    <string name="form_huesped_email">Correo Electrónico</string>
+    <string name="form_huesped_genre">Genero</string>
+    <string name="form_huesped_genre_male">Masculino</string>
+    <string name="form_huesped_genre_female">Femenino</string>
+    <string name="form_huesped_genre_none">Prefiero No Especificar</string>
+    <string name="form_huesped_age">Edad</string>
+    <string name="form_huesped_ine">Adjuntar INE</string>
+    <string name="form_huesped_idIPN">Adjuntar Credencial del IPN</string>
+    <string name="form_huesped_why_info"><u>¿Por qué debo proporcionar estos datos?</u></string>
+    <string name="form_huespd_next">Continuar</string>
+    <string name="form_huesped_terms">Acepto los</string>
+    <string name="form_huesped_conditions"><u>Términos y Condiciones</u></string>
 </resources>

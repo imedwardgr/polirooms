@@ -10,10 +10,32 @@
         <item name="android:textColorHint">@color/colorHintText</item>
     </style>
 
+    <style name="txt_small_guinda">
+        <item name="android:fontFamily">Noto Sans</item>
+        <item name="android:textSize">14sp</item>
+        <item name="android:textColor">@color/colorPrimary</item>
+    </style>
+
     <style name="big_button_guinda">
         <item name="android:textStyle">bold</item>
         <item name="android:textColor">@color/colorWhite</item>
         <item name="android:background">@drawable/rounded_corner_guinda_button</item>
         <item name="android:layout_height">40dp</item>
+    </style>
+
+    <style name="small_button_guinda">
+        <item name="android:fontFamily">Noto Sans</item>
+        <item name="android:textSize">12sp</item>
+        <item name="android:textStyle">italic</item>
+        <item name="android:textColor">@color/colorWhite</item>
+        <item name="android:background">@drawable/rounded_corner_guinda_button</item>
+        <item name="android:layout_height">24dp</item>
+        <item name="android:layout_width">200dp</item>
+    </style>
+
+    <style name="radio_button_bgWhite">
+        <item name="android:textColorHighlight">@color/colorPrimaryDark</item>
+        <item name="android:textColor">@color/colorPrimary</item>
+        <item name="android:buttonTint">@color/colorPrimary</item>
     </style>
 </resources>

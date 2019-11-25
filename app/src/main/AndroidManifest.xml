@@ -12,7 +12,8 @@
         android:roundIcon="@drawable/polirooms_round_icon"
         android:supportsRtl="true"
         android:theme="@style/AppTheme.NoActionBar">
-        <activity android:name=".reg_arrendador_form"></activity>
+        <activity android:name=".terms_and_conditions"></activity>
+        <activity android:name=".reg_arrendador_form" />
         <activity android:name=".reg_husped_form" />
         <activity
             android:name=".dashboard_huesped"
