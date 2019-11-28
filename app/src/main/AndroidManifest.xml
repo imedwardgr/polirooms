@@ -1,12 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:dist="http://schemas.android.com/apk/distribution"
+    android:usesCleartextTraffic="true"
     package="escom.polirooms">
 
     <dist:module dist:instant="true" />
 
     <uses-permission android:name="android.permission.CAMERA" />
-    <uses-feature android:name="android.hardware.camera"></uses-feature>
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <uses-feature android:name="android.hardware.camera" />
 
     <application
         android:allowBackup="true"
@@ -15,7 +18,9 @@
         android:roundIcon="@drawable/polirooms_round_icon"
         android:supportsRtl="true"
         android:theme="@style/AppTheme.NoActionBar">
-        <activity android:name=".terms_and_conditions"></activity>
+        <activity android:name=".reg_arrendador_personality_test"></activity>
+        <activity android:name=".reg_huesped_personality_test" />
+        <activity android:name=".terms_and_conditions" />
         <activity android:name=".reg_arrendador_form" />
         <activity android:name=".reg_husped_form" />
         <activity

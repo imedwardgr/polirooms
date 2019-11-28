@@ -51,6 +51,8 @@
     <string name="form_arrendador_terms">Acepto los</string>
     <string name="form_arrendador_conditions"><u>Términos y Condiciones</u></string>
 
+    <string name="form_huesped_personality_instruction">Al terminar el test, presiona continuar.</string>
+
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
     <string name="buttonProfile">Perfil</string>
