@@ -36,6 +36,21 @@
     <string name="choose_image_camera_txt">Tomar Fotografía</string>
     <string name="choose_image_gallery_txt">Elegir de la Galería</string>
 
+    <string name="form_arrendador_tittle">Registro de Arrendador</string>
+    <string name="form_arrendador_name">Nombre(s)</string>
+    <string name="form_arrendador_second_name">Apellidos</string>
+    <string name="form_arrendador_email">Correo Electrónico</string>
+    <string name="form_arrendador_genre">Genero</string>
+    <string name="form_arrendador_genre_male">Masculino</string>
+    <string name="form_arrendador_genre_female">Femenino</string>
+    <string name="form_arrendador_genre_none">Prefiero No Especificar</string>
+    <string name="form_arrendador_age">Edad</string>
+    <string name="form_arrendador_ine">Adjuntar INE</string>
+    <string name="form_arrendador_why_info"><u>¿Por qué debo proporcionar estos datos?</u></string>
+    <string name="form_arrendador_next">Continuar</string>
+    <string name="form_arrendador_terms">Acepto los</string>
+    <string name="form_arrendador_conditions"><u>Términos y Condiciones</u></string>
+
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
     <string name="buttonProfile">Perfil</string>
